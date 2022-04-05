@@ -7,3 +7,4 @@ This is the organization for the [SoftwareONE](https://www.softwareone.com) Clou
 Members:
 - Emanuele Bartolesi
 - Pascal Odermatt
+- Mirco Ingenito
